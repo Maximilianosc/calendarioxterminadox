@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1541088892 source:c:\users\maxip\desktop\universida\caledariox\calendariox\heap.c
+	"Heap.h"
+	<stdlib.h>
+	<assert.h>
+
+1541088892 c:\users\maxip\desktop\universida\caledariox\calendariox\heap.h
+
+1536239198 source:c:\users\maxip\desktop\universida\caledariox\calendariox\list.c
+	"List.h"
+	<stdlib.h>
+	<assert.h>
+
+1536239198 c:\users\maxip\desktop\universida\caledariox\calendariox\list.h
+
+1541941756 source:c:\users\maxip\desktop\universida\caledariox\calendariox\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1538505528 c:\users\maxip\desktop\universida\caledariox\calendariox\map.h
+
+1557718976 source:c:\users\maxip\desktop\universida\caledariox\calendariox\sortedmap.c
+	"SortedMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+
+1557718976 c:\users\maxip\desktop\universida\caledariox\calendariox\sortedmap.h
+
+1594341711 source:c:\users\maxip\desktop\universida\caledariox\calendariox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"List.h"
+	"SortedMap.h"
+
+1593810762 source:c:\users\maxip\desktop\universida\caledariox\calendariox\main (1).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+
+1541092492 source:c:\users\ricardo\desktop\proyecto\calendariox\heap.c
+	"Heap.h"
+	<stdlib.h>
+	<assert.h>
+
+1541092492 c:\users\ricardo\desktop\proyecto\calendariox\heap.h
+
+1536242798 source:c:\users\ricardo\desktop\proyecto\calendariox\list.c
+	"List.h"
+	<stdlib.h>
+	<assert.h>
+
+1536242798 c:\users\ricardo\desktop\proyecto\calendariox\list.h
+
+1541945356 source:c:\users\ricardo\desktop\proyecto\calendariox\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1538509128 c:\users\ricardo\desktop\proyecto\calendariox\map.h
+
+1557718976 source:c:\users\ricardo\desktop\proyecto\calendariox\sortedmap.c
+	"SortedMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+
+1557718976 c:\users\ricardo\desktop\proyecto\calendariox\sortedmap.h
+
+1594779712 source:c:\users\ricardo\desktop\proyecto\calendariox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"List.h"
+	"SortedMap.h"
+
+1541088892 source:c:\users\maxip\desktop\universida\caledariox\calendariox casi terminadox\heap.c
+	"Heap.h"
+	<stdlib.h>
+	<assert.h>
+
+1541088892 c:\users\maxip\desktop\universida\caledariox\calendariox casi terminadox\heap.h
+
+1536239198 source:c:\users\maxip\desktop\universida\caledariox\calendariox casi terminadox\list.c
+	"List.h"
+	<stdlib.h>
+	<assert.h>
+
+1536239198 c:\users\maxip\desktop\universida\caledariox\calendariox casi terminadox\list.h
+
+1594836367 source:c:\users\maxip\desktop\universida\caledariox\calendariox casi terminadox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"List.h"
+	"SortedMap.h"
+
+1538505528 c:\users\maxip\desktop\universida\caledariox\calendariox casi terminadox\map.h
+
+1557718976 c:\users\maxip\desktop\universida\caledariox\calendariox casi terminadox\sortedmap.h
+
+1541941756 source:c:\users\maxip\desktop\universida\caledariox\calendariox casi terminadox\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1557718976 source:c:\users\maxip\desktop\universida\caledariox\calendariox casi terminadox\sortedmap.c
+	"SortedMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+

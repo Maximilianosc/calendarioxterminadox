@@ -1,0 +1,4 @@
+09876543;
+20600200;Moral_Cristiana,Finanzas,Base_Datos,
+12345678;Automatas_Compiladores,Fundamentos_Matematicas,Ingles_III,
+20325019;Intro_Ing_Inf,Finanzas,Ingles_IV,
